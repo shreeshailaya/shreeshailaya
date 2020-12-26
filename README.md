@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shree_vitkar" target="blank"><img src="https://img.shields.io/twitter/follow/shree_vitkar?logo=twitter&style=for-the-badge" alt="shree_vitkar" /></a> </p>
 
-- 🔭 I’m currently working on [StockPrediction](https://github.com/shreeshailaya/StockPrediction)
+- 🔭 I’m currently working on [C](https://github.com/shreeshailaya/basic)
 
 - 🌱 I’m currently learning **How to build myself**
 
