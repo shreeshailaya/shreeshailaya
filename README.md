@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [www.mech2it.com](www.mech2it.com)
 
-- 📫 How to reach me **s.r.vitkar55@gmail.com**
+- 📫 How to reach me **shree@mech2it.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing](https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing)
 
