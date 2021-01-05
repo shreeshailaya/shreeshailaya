@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing](https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing)
 
+<p>&nbsp;<img align="right" src="https://github.com/shreeshailaya/shreeshailaya/blob/main/code.gif" alt="shreeshailaya" width="600" height="300" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shree_vitkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shree_vitkar" height="30" width="40" /></a>
