@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/shree_vitkar" target="blank"><img src="https://img.shields.io/twitter/follow/shree_vitkar?logo=twitter&style=for-the-badge" alt="shree_vitkar" /></a> </p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreeshailaya&show_icons=true&locale=en" alt="shreeshailaya" /></p>
+
+
 - 🔭 I’m currently working on [C](https://github.com/shreeshailaya/basic)
 
 - 🌱 I’m currently learning **How to build myself**
@@ -22,6 +25,5 @@
 <a href="https://fb.com/shreeshailaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreeshailaya" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeshailaya&show_icons=true&locale=en" alt="shreeshailaya" /></p>
 
 
