@@ -6,7 +6,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreeshailaya&show_icons=true&locale=en" alt="shreeshailaya" /></p>
 
 
-- 🔭 I’m currently working on [C](https://github.com/shreeshailaya/basic)
+- 🔭 I’m currently working on [C](https://github.com/shreeshailaya/c-dac)
 
 - 🌱 I’m currently learning **How to build myself**
 
