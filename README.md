@@ -26,6 +26,6 @@
 <a href="https://linkedin.com/in/shreeshail-vitkar-66169952" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreeshail-vitkar-66169952" height="30" width="40" /></a>
 <a href="https://fb.com/shreeshailaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreeshailaya" height="30" width="40" /></a>
 </p>
-<img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshailaya&layout=compact"></img>
+<img aline="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshailaya&layout=compact"></img>
 
 
