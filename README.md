@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [click](https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing)
 
-<p>&nbsp;<img align="right" src="https://github.com/shreeshailaya/shreeshailaya/blob/main/code.gif" alt="shreeshailaya" width="600" height="300" /></p>
+<p>&nbsp;<img align="right" src="https://github.com/shreeshailaya/shreeshailaya/blob/main/code.gif" alt="shreeshailaya" width="550" height="300" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +26,6 @@
 <a href="https://linkedin.com/in/shreeshail-vitkar-66169952" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreeshail-vitkar-66169952" height="30" width="40" /></a>
 <a href="https://fb.com/shreeshailaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreeshailaya" height="30" width="40" /></a>
 </p>
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshailaya&layout=compact)](https://github.com/shreeshailaya/github-readme-stats)
-</p>
-
+<img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshailaya&layout=compact"></img>
 
 
