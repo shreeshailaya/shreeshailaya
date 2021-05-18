@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [click](https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing)
 
-<p>&nbsp;<img align="right" src="https://github.com/shreeshailaya/shreeshailaya/blob/main/code.gif" alt="shreeshailaya" width="250" height="300" /></p>
+<p>&nbsp;<img align="right" src="https://github.com/shreeshailaya/shreeshailaya/blob/main/code.gif" alt="shreeshailaya" width="400" height="300" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
