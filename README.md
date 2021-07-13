@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shree</h1>
+<h1 align="center">Hi <img src="https://github.com/shreeshailaya/shreeshailaya/blob/main/wave.gif" alt="shreeshailaya" width="50" height="30" />, I'm Shree</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/shree_vitkar" target="blank"><img src="https://img.shields.io/twitter/follow/shree_vitkar?logo=twitter&style=for-the-badge" alt="shree_vitkar" /></a> </p>
