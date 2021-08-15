@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreeshailaya](https://github.com/shreeshailaya)
 
-- 📝 I regularly write articles on [www.mech2it.com](www.mech2it.com)
+- 📝 I regularly write articles on [vitkar.tech](vitkar.tech)
 
-- 📫 How to reach me **shree@mech2it.com**
+- 📫 How to reach me **shree@vitkar.tech**
 
 - 📄 Know about my experiences [click](https://drive.google.com/file/d/1PbSjgubJPeTZRKiLASjmi5OFgUL4HOc3/view?usp=sharing)
 
