@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreeshailaya](https://github.com/shreeshailaya)
 
-- 📝 I regularly write articles on [vitkar.tech](https://vitkar.tech)
+- 📝 I regularly write articles on [medium.com](https://shreeshail.medium.com/)
 
 - 📫 How to reach me **shree@vitkar.tech**
 
@@ -27,6 +27,8 @@
 <a href="https://linkedin.com/in/shreeshail-vitkar-66169952" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreeshail-vitkar-66169952" height="30" width="40" /></a>
 <a href="https://fb.com/shreeshailaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreeshailaya" height="30" width="40" /></a>
 </p>
+
+- 📝 latest article
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shreeshail/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shreeshail/0" alt="Recent Article 0"> 
 
