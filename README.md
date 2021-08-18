@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreeshailaya](https://github.com/shreeshailaya)
 
-- 📝 I regularly write articles on [vitkar.tech](vitkar.tech)
+- 📝 I regularly write articles on [vitkar.tech](https://vitkar.tech)
 
 - 📫 How to reach me **shree@vitkar.tech**
 
