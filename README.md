@@ -28,7 +28,9 @@
 <a href="https://fb.com/shreeshailaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreeshailaya" height="30" width="40" /></a>
 </p>
 
-- 📝 latest article
+***
+
+### 📝 latest article
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shreeshail/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shreeshail/0" alt="Recent Article 0"> 
 
