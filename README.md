@@ -2,7 +2,9 @@ Welcome Prachi Madam
 1. whenever I came across a new update or information I try to figure it out via surfing the web or I call the mentors and take help from them and make sure I totally understand the new update
 2. I am always eager to take on new responsibilities because I love to learn new things so it will help me to improve and also it will improve others too like recently I took responsibility to train new joiners this is really the best experience to learn and teach and to understand new joiners tendency and attitude towards work
 3. About helping teammates we help each other, we work together we solve queries together if any of my teammates are stuck somewhere I'm always willing to help them also sometimes I stuck on something I took help from them, recently freshers are joined our team I put my 100% to train them and make sure that they don't do any mistake and they should learn from there mistakes...
+
 4. Wherever I get any queries first I understand the feedback and response of that particular query so it will help me to understand it properly, if suppose any query is raised from an onsite client I try to understand it do some research on it, and then solve it within or before the time given to solve it and once the query is solved and make down the note of that particular query so there is no need to raise it again and again
+
 5.I always make sure that the work should be done on time with no errors in it, i always follow the time line do work with in time limit and also I make sure that any technical issue cannot be a reason for my work delay, if any issue come i first raise ticket to IT team and solve my problem and also sometime if there is any issue technical non technical which may cause delay to the work I inform to mentor and seniors about it so it should not be affect on the work...
 
 
