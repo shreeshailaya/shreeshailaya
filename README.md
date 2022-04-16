@@ -4,6 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/shree_vitkar" target="blank"><img src="https://img.shields.io/twitter/follow/shree_vitkar?logo=twitter&style=for-the-badge" alt="shree_vitkar" /></a> </p>
 
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreeshailaya&show_icons=true&locale=en" alt="shreeshailaya" /></p>
 
 
@@ -36,4 +37,5 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shreeshail/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shreeshail/0" alt="Recent Article 0"> 
 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shreeshailaya.visitor-badge)
 
